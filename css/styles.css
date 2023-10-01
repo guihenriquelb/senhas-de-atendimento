@@ -1,0 +1,105 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+html, body {
+    height: auto;
+    min-height: 100vh;
+}
+
+html {
+    background: linear-gradient(180deg, #fdfdfd 0%, #ffce73 100%);
+}
+
+.logo {
+    margin-top: 150px;
+}
+
+img {
+    position: fixed;
+    top: 60px;
+    left: 9vw;
+    width: 220px;
+}
+
+.logo h1 {
+    text-transform: uppercase;
+    display: flex;
+    margin: 0 auto;
+    width: 80vw;
+    text-align: end;
+    align-items: end;
+    justify-content: end;
+    font-size: 24px;
+}
+
+.logo h2 {
+    display: flex;
+    margin: 0 auto;
+    margin-bottom: 100px;
+    width: 80vw;
+    text-align: end;
+    align-items: end;
+    justify-content: end;
+    font-weight: normal;
+    font-size: 22px;
+}
+
+.logo h2 {
+    
+}
+
+.container {
+    display: flex;
+    margin: 40px auto;
+    margin-bottom: 60px;
+    height: 200px;
+    width: 80vw;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: #ff5e14;
+    color: #FFF;
+}
+
+.lastCalls {
+    font-weight: bold;
+    color: #ff5e14;
+    text-align: center;
+    font-size: 26px;
+}
+
+.sub-container {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 12px;
+    color: #080808;
+}
+
+.passTextA {
+    font-weight: 500;
+    font-size: 60px;
+}
+
+.passNumA {
+    font-weight: 700;
+    font-size: 86px;
+    margin-left: 30px;
+}
+
+.passTextB {
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.passNumB {
+    font-weight: 700;
+    font-size: 24px;
+    margin-left: 6px;
+}
