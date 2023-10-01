@@ -66,19 +66,19 @@ img {
     color: #FFF;
 }
 
-.lastCalls {
+.lastCallsText {
     font-weight: bold;
     color: #ff5e14;
     text-align: center;
     font-size: 26px;
+    margin-bottom: 12px;
 }
 
-.sub-container {
+.lastCalls {
     display: flex;
     text-align: center;
     align-items: center;
     justify-content: center;
-    margin-top: 12px;
     color: #080808;
 }
 
